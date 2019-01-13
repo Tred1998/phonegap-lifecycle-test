@@ -31,7 +31,7 @@ function updateDisplay() {
 	paused_count++;
 	updateDisplay();
 	    
-	alert("blue");
+	alert("YES");
     }
 	
 
@@ -40,5 +40,5 @@ function updateDisplay() {
 	resumed_count++;
 	updateDisplay();
 	    
-	alert("red");
+	alert("NO");
     }
